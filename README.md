@@ -46,6 +46,16 @@ I’m a **CS Student** interested in :\
 
 </p>
 
+# Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- [RSA but the exponent changes every time using an LCG](https://y8w3ly.github.io/posts/Alpacahack30/)
+- [Cracking python's PRNG with missing bits from samples](https://y8w3ly.github.io/posts/why-the-bear-has-no-tail/)
+- [Retrieving two secrets from the square of their relationship](https://y8w3ly.github.io/posts/L3akCTF2025/#cryptosecret)
+- [Breaking python's PRNG with only 6 values](https://y8w3ly.github.io/posts/1xbet/)
+<!-- BLOG-POST-LIST:END -->  
+
+
+
 # 📈 My GitHub stats
 
 <!-- <div class="badges-githubstats"> --->
