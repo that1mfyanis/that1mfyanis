@@ -16,8 +16,8 @@ I’m a **CS Student** interested in :\
 **- Playing CTFs,**\
 **- Low Level Development**.
 
-- 🔭 I’m currently working on [tokenization](https://github.com/y8w3ly/Tokenization).
-- 🌱 I’m currently learning smart contracts development.  
+- 🔭 I’m currently working on [ZELLA](https://github.com/y8w3ly/ZELLA).
+- 🌱 I’m currently learning Cryptography.  
 ---
 
 <p align="center">
