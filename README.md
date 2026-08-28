@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-<img src="https://komarev.com/ghpvc/?username=y8w3ly&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=that1mfyanis&&style=flat-square" align="center" />
 </div>  
   
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
@@ -16,7 +16,7 @@ I’m a **CS Student** interested in :\
 **- Playing CTFs,**\
 **- Low Level Development**.
 
-- 🔭 I’m currently working on [ZELLA](https://github.com/y8w3ly/ZELLA).
+- 🔭 I’m currently working on [me](https://github.com/that1mfyanis/that1mfyanis).
 - 🌱 I’m currently learning Cryptography.  
 ---
 
@@ -40,18 +40,18 @@ I’m a **CS Student** interested in :\
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/y8w3ly/y8w3ly"/> 
- <img src="https://badges.pufler.dev/repos/y8w3ly"/>
- <img src="https://badges.pufler.dev/commits/monthly/y8w3ly" />
+ <img src="https://badges.pufler.dev/visits/that1mfyanis/that1mfyanis"/> 
+ <img src="https://badges.pufler.dev/repos/that1mfyanis"/>
+ <img src="https://badges.pufler.dev/commits/monthly/that1mfyanis" />
 
 </p>
 
 # Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [RSA but the exponent changes every time using an LCG](https://y8w3ly.github.io/posts/Alpacahack30/)
-- [Cracking python's PRNG with missing bits from samples](https://y8w3ly.github.io/posts/why-the-bear-has-no-tail/)
-- [Retrieving two secrets from the square of their relationship](https://y8w3ly.github.io/posts/L3akCTF2025/#cryptosecret)
-- [Breaking python's PRNG with only 6 values](https://y8w3ly.github.io/posts/1xbet/)
+- [RSA but the exponent changes every time using an LCG](https://that1mfyanis.github.io/posts/Alpacahack30/)
+- [Cracking python's PRNG with missing bits from samples](https://that1mfyanis.github.io/posts/why-the-bear-has-no-tail/)
+- [Retrieving two secrets from the square of their relationship](https://that1mfyanis.github.io/posts/L3akCTF2025/#cryptosecret)
+- [Breaking python's PRNG with only 6 values](https://that1mfyanis.github.io/posts/1xbet/)
 <!-- BLOG-POST-LIST:END -->  
 
 
@@ -60,9 +60,9 @@ I’m a **CS Student** interested in :\
 
 <!-- <div class="badges-githubstats"> --->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=y8w3ly&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="165">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=y8w3ly&theme=tokyonight&hide_border=true"  height="165">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=y8w3ly&theme=tokyonight&hide_border=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=that1mfyanis&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="165">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=that1mfyanis&theme=tokyonight&hide_border=true"  height="165">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=that1mfyanis&theme=tokyonight&hide_border=true&layout=compact">
   </p>
 <!-- </div> -->
 
@@ -76,7 +76,7 @@ I’m a **CS Student** interested in :\
 
 
 <!--
-**y8w3ly/y8w3ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**that1mfyanis/that1mfyanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
